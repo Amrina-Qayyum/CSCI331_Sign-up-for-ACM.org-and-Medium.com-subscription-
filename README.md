@@ -1,46 +1,40 @@
-# Pair Programming Group Project
+# CSCI331 Assignment
+## Sign-up for ACM.org and Medium.com (Subscription)
 
-## Group Information
+### Student Information
+Name: **Amrina Qayyum**  
+Group: **PairProgrammingGroups**  
+Group Name: **PPG_6**
 
-**Group Name:** PPG_6\
-**Name:** Amrina Qayyum
+---
 
-------------------------------------------------------------------------
+# ACM Membership Proof
 
-## ACM Membership Proof
+### ACM Membership Confirmation Email
+![ACM Membership Email](ACM_Membership_Confirmation_Email.jpeg)
 
-Below is the proof of ACM membership.
+### ACM Membership Confirmation Email 2
+![ACM Membership Email 2](ACM_Membership_Confirmation_Email1.jpeg)
 
-### Screenshot
+### ACM Membership Number Confirmation
+![ACM Membership Number](Membership_Confirmation_ACM.jpeg)
 
-![ACM Membership Screenshot](acm_membership.jpeg)
+---
 
-### PDF Proof
+# Medium Membership Proof
 
-The detailed membership proof is also attached in PDF format.
+### Medium Membership Confirmation
+![Medium Membership](Medium_Membership_Confirmation.jpeg)
 
-File: **acm_membership_proof.pdf**
+---
 
-------------------------------------------------------------------------
+# Full Proof Document
 
-## Medium Membership Proof
+A compiled document containing all confirmations is also provided.
 
-Below is the proof of Medium membership.
+📄 **CSCI331_Sign-up-for-ACM.org-and-Medium.com (subscription) _Amrina Qayyum.pdf**
 
-### Screenshot
+---
 
-![Medium Membership Screenshot](medium_membership.jpeg)
-
-### PDF Proof
-
-The detailed membership proof is also attached in PDF format.
-
-File: **medium_membership_proof.pdf**
-
-------------------------------------------------------------------------
-
-## Note
-
-Both screenshots and PDF documents are included in this repository as
-proof of membership for ACM and Medium.com as required for the
-assignment.
+# Note
+This repository contains proof of ACM and Medium membership as required for the CSCI331 group assignment.
