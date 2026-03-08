@@ -13,7 +13,7 @@ Below is the proof of ACM membership.
 
 ### Screenshot
 
-![ACM Membership Screenshot](acm_membership.jpg)
+![ACM Membership Screenshot](acm_membership.jpeg)
 
 ### PDF Proof
 
@@ -29,7 +29,7 @@ Below is the proof of Medium membership.
 
 ### Screenshot
 
-![Medium Membership Screenshot](medium_membership.jpg)
+![Medium Membership Screenshot](medium_membership.jpeg)
 
 ### PDF Proof
 
